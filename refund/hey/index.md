@@ -29,4 +29,4 @@ Here are examples of refunds for HEY for Work we'd grant:
 
 ## Get in touch
 
-At the end of the day, nearly everything on the edges comes down to a case-by-case basis. [Send us a note]({{ site.email_support }}), tell us what’s up, and we’ll work with you to make sure you’re happy.
+At the end of the day, nearly everything on the edges comes down to a case-by-case basis. [Send us a note](mailto:amaury@reacher.email), tell us what’s up, and we’ll work with you to make sure you’re happy.
