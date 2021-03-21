@@ -69,9 +69,9 @@ Our default practice is to not access your information. The only times we’ll e
 
 **When required under applicable law.**
 
-PROXIMA B SASU is a FRANCE company and all data infrastructure are located in the FRANCE.
+PROXIMA B SASU is a FRENCH company, but all data infrastructure are located in the United States.
 
-- If FRANCE law enforcement authorities have the necessary warrant, criminal subpoena, or court order requiring we share data, we have to comply. Otherwise, we flat-out reject requests from local and federal law enforcement when they seek data. And unless we’re legally prevented from it, we’ll always inform you when such requests are made. In the event a government authority outside FRANCE approaches Reacher with a request, our default stance is to refuse unless the FRANCE government compels us to comply through procedures outlined in a mutual legal assistance treaty or agreement. **_We have never received a National Security Letter or Foreign Intelligence Surveillance Act (FISA) order._**
+- If FRANCE or US law enforcement authorities have the necessary warrant, criminal subpoena, or court order requiring we share data, we have to comply. Otherwise, we flat-out reject requests from local and federal law enforcement when they seek data. And unless we’re legally prevented from it, we’ll always inform you when such requests are made. In the event a government authority outside FRANCE approaches Reacher with a request, our default stance is to refuse unless the FRANCE government compels us to comply through procedures outlined in a mutual legal assistance treaty or agreement. **_We have never received a National Security Letter or Foreign Intelligence Surveillance Act (FISA) order._**
 - If we get an informal request from any person, organization, or entity, we do not assist. If you are an account owner who wants to export data from their accounts, you can do so directly by contacting amaury@reacher.email.
 - If we are audited by a tax authority, we may be required to share billing-related information. If that happens, we only share the bare minimum needed such as billing addresses and tax exemption information.
 

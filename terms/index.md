@@ -5,11 +5,11 @@ description: All the terms that you agree to when you sign up for a Reacher prod
 
 # Terms of Service
 
-_Last updated: January 31, 2021_
+_Last updated: March 21, 2021_
 
 From everyone at Reacher, thank you for using our products! We build them to help you do your best work. Because we don't know every one of our customers personally, we have to put in place some Terms of Service to help keep the ship afloat.
 
-When we say “Company”, “we”, “our”, or “us” in this document, we are referring to PROXIMA B SASU.s
+When we say “Company”, “we”, “our”, or “us” in this document, we are referring to PROXIMA B SASU.
 
 When we say “Services”, we mean any product created and maintained by PROXIMA B SASU. That includes Reacher (all versions) and Reacher Help Center, whether delivered within a web browser, desktop application, mobile application, or another format.
 

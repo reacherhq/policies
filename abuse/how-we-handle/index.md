@@ -5,7 +5,7 @@ description: Guiding principles and process for investigating abuse reports
 
 # How we handle abusive usage
 
-_Last updated: January 19, 2021_
+_Last updated: March 21, 2021_
 
 We build our products\* to give teams a better way to work. We are proud of that purpose and trust that our customers use our products for appropriate endeavors.
 
@@ -15,7 +15,7 @@ Sometimes, though, we discover potential abusive usage as detailed in our [Use R
 
 ### Human oversight
 
-Who’s “we”, you ask? It’s us: folks from the Basecamp team. Our internal abuse oversight committee includes our executives, David and Jason, and representatives from multiple departments across the company. On rare occasions for particularly sensitive situations or if legally required, we may also seek counsel from external experts.
+Who’s “we”, you ask? It’s us: folks from the Reacher team. Our internal abuse oversight committee includes our executives, David and Jason, and representatives from multiple departments across the company. On rare occasions for particularly sensitive situations or if legally required, we may also seek counsel from external experts.
 
 ### Balanced responsibilities
 
@@ -39,7 +39,7 @@ From our experience, we learn about potential abuse because:
 
 - Someone alerts us. We give [abuse reports](../index.md) our full care and attention. Our Support team also responds to every question or comment that comes in. If we notice anything in those emails that points to a violation, we will look into it.
 - We notice an anomaly in our business operations monitoring. We monitor a range of things about our products, like signup volume and error rates of web requests. If we see something weird with those numbers, we get to the bottom of it.
-- We stumble upon public web content that links an individual or organization to a Basecamp product. We aren’t scouring the Internet looking for those links, but if we do come across any, we check them out.
+- We stumble upon public web content that links an individual or organization to a Reacher product. We aren’t scouring the Internet looking for those links, but if we do come across any, we check them out.
 
 This list is not exhaustive; there are always edge cases. We will update the list if we find regular new avenues.
 
@@ -73,4 +73,4 @@ If we terminate an account without notice, the decision is final.
 
 For other cases, we will consider good faith appeals sent to [amaury@reacher.email](mailto:amaury@reacher.email) by the account owner within 14 calendar days.
 
-\*_This process applies to any product created and owned by PROXIMA B SASU. That includes Basecamp (any version), HEY, Highrise, Campfire, Backpack, Writeboard, and Ta-da List._
+\*_This policy and process applies to any version of Reacher._
