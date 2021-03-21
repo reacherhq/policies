@@ -10,7 +10,7 @@ This Software License Agreement (the “Agreement”) is between:
 - PROXIMA B SASU (“Company”, “Reacher”), located at 15 Avenue Sainte Foy, 92200 Neuilly-sur-Seine, FRANCE,
 - and You (including your agents and affiliates), a commercial licensee of Reacher's software.
 
-This license has been purchased by {{stripe_buyer_name}} (email: {{stripe_buyer-email}}) on {{stripe_buy_date}}.
+This license has been purchased by {{stripe_buyer_name}} (email: {{stripe_buyer_email}}) on {{stripe_buy_date}}.
 
 If you have not purchased a Reacher Commercial License from Reacher, these terms do not apply to you, and your use of the Reacher software is instead governed by the GNU Affero General Public License, version 3, which can be found at the following link: https://www.gnu.org/licenses/agpl-3.0.en.html.
 
