@@ -3,9 +3,7 @@ title: Reacher Commercial License
 description: The commercial license is designed to for you to use Reacher in commercial products and applications, without the provisions of the AGPL-3.0.
 ---
 
-<br/>
-<img src="https://github.com/reacherhq/webapp/raw/master/src/assets/logo/reacher-512.png" alt="Reacher Logo" height="100" width="100" />
-<br/>
+![Reacher Logo](https://github.com/reacherhq/webapp/raw/master/src/assets/logo/reacher-64.png)
 
 # Reacher Commercial License
 
