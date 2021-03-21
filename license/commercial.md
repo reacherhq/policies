@@ -12,7 +12,7 @@ This Software License Agreement (the “Agreement”) is between:
 
 This license has been purchased by {{stripe_buyer}} on {{stripe_buy_date}}.
 
-If you have not purchased a Reacher Commercial License from Reacher, these terms do not apply to you, and your use of the Reacher software is instead governed by the [GNU Affero General Public License, version 3](https://www.gnu.org/licenses/agpl-3.0.en.html).
+If you have not purchased a Reacher Commercial License from Reacher, these terms do not apply to you, and your use of the Reacher software is instead governed by the GNU Affero General Public License, version 3, which can be found at the following link: https://www.gnu.org/licenses/agpl-3.0.en.html).
 
 ## 1. Definitions
 
