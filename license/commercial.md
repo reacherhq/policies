@@ -31,7 +31,7 @@ If you have not purchased a Reacher Commercial License from Reacher, these terms
 
 ## 2. Commercial license grant
 
-2.1 Subject to the terms of this Agreement, Reacher grants to You a revocable, non-exclusive, non-transferable license: (i) for {{license_number_devs}} to use the Software to create Modifications and Applications; (ii) for You to distribute the Software and/or Modifications to an unlimited number of End Users solely as integrated into the Applications; and (iii) for End Users to use the Software as incorporated into Your Applications in accordance with the terms of this Agreement.
+2.1 Subject to the terms of this Agreement, Reacher grants to You a revocable, non-exclusive, non-transferable license: (i) for {{number_devs}} to use the Software to create Modifications and Applications; (ii) for You to distribute the Software and/or Modifications to an unlimited number of End Users solely as integrated into the Applications; and (iii) for End Users to use the Software as incorporated into Your Applications in accordance with the terms of this Agreement.
 
 2.2. You are entitled to receive all updates to the minor version of the Software licensed by you, as well as any later version of the Software that Reacher, in writing, explicitly authorizes you to use. (For illustration purposes only, if you purchased a license for version 0.8.19, this licenses authorizes you to use version 0.8.20, but not 0.9.0.) Reacher makes no representation that any update will be compatible with your Application.
 
