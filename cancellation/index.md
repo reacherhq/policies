@@ -9,7 +9,7 @@ _Last updated: March 21, 2021_
 
 We want satisfied customers, not hostages. That’s why we make it easy for you to cancel your account directly in all of our apps — no phone calls required, no questions asked.
 
-Account owners can follow these instructions to cancel in-app:
+Account owners can follow these instructions to cancel:
 
 - Reacher: send us an email at [amaury@reacher.email](mailto:amaury@reacher.email) stating that you wish to permanently remove your account.
 

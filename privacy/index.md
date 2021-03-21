@@ -5,7 +5,7 @@ description: The privacy of your data — and it is your data, not ours! — is 
 
 # Privacy policy
 
-_Last updated: January 31, 2021_
+_Last updated: March 21, 2021_
 
 The privacy of your data — and it is your data, not ours! — is a big deal to us. In this policy, we lay out: what data we collect and why; how your data is handled; and your rights to your data. We promise we never sell your data: never have, never will.
 
@@ -69,13 +69,13 @@ Our default practice is to not access your information. The only times we’ll e
 
 **When required under applicable law.**
 
-PROXIMA B SASU is a FRENCH company, but all data infrastructure are located in the United States.
+PROXIMA B SASU is a FRENCH company, but all data infrastructure are located in the US.
 
 - If FRANCE or US law enforcement authorities have the necessary warrant, criminal subpoena, or court order requiring we share data, we have to comply. Otherwise, we flat-out reject requests from local and federal law enforcement when they seek data. And unless we’re legally prevented from it, we’ll always inform you when such requests are made. In the event a government authority outside FRANCE approaches Reacher with a request, our default stance is to refuse unless the FRANCE government compels us to comply through procedures outlined in a mutual legal assistance treaty or agreement. **_We have never received a National Security Letter or Foreign Intelligence Surveillance Act (FISA) order._**
 - If we get an informal request from any person, organization, or entity, we do not assist. If you are an account owner who wants to export data from their accounts, you can do so directly by contacting amaury@reacher.email.
 - If we are audited by a tax authority, we may be required to share billing-related information. If that happens, we only share the bare minimum needed such as billing addresses and tax exemption information.
 
-Finally, if PROXIMA B SASU is acquired by or merged with another company — we don’t plan on that, but if it happens — we’ll notify you well before any info about you is transferred and becomes subject to a different privacy policy.
+Finally, if Reacher is acquired by or merged with another company — we don’t plan on that, but if it happens — we’ll notify you well before any info about you is transferred and becomes subject to a different privacy policy.
 
 ## Your rights with respect to your information
 
@@ -94,7 +94,7 @@ At Reacher, we apply the same data rights to all customers, regardless of their 
 
 Many of these rights can be exercised by signing in and directly updating your account information.
 
-If you have questions about exercising these rights or need assistance, please contact us at [amaury@reacher.email](mailto:amaury@reacher.email) or at PROXIMA B SASU, 15 Avenue Sainte Foy, 92200 Neuilly-sur-Seine, FRANCE. For requests to delete personal information or know what personal information has been collected, we will first verify your identity using a combination of at least two pieces of information already collected including your user email address. If an authorized agent is corresponding on your behalf, we will first need written consent with a signature from the account holder before proceeding.
+If you have questions about exercising these rights or need assistance, please contact us at [amaury@reacher.email](mailto:amaury@reacher.email) or at PROXIMA B SASU, . For requests to delete personal information or know what personal information has been collected, we will first verify your identity using a combination of at least two pieces of information already collected including your user email address. If an authorized agent is corresponding on your behalf, we will first need written consent with a signature from the account holder before proceeding.
 
 If you are in the EU, you can identify your specific authority to file a complaint or find out more about GDPR, at [https://edpb.europa.eu/about-edpb/board/members_en](https://edpb.europa.eu/about-edpb/board/members_en).
 
@@ -110,40 +110,7 @@ We also delete your data after an account is cancelled. In this case, there is n
 
 ## Location of site and data
 
-Our products and other web properties are operated in the United States. If you are located in the European Union or elsewhere outside of the United States, **please be aware that any information you provide to us will be transferred to and stored in the United States**. By using our Site, participating in any of our services and/or providing us with your information, you consent to this transfer.
-
-## When transferring personal data from the EU
-
-The GDPR requires that any data transferred out of the EU must be treated with the same level of protection that the EU privacy laws grant. The privacy laws of the United States generally do not meet that requirement. That is why since GDPR went into effect, Reacher has offered a data processing addendum and voluntarily participated in the EU-US Privacy Shield Framework as well as the Swiss-US Privacy Shield Framework.
-
-We have incorporated a Data Processing Addendum to our [Terms of Service](../terms/index.md) that is in effect when the GDPR applies to your use of Reacher Services to process Customer Data as defined in the DPA. You can find the DPA linked within clause 7 of the Uptime, Security and Privacy section. The DPA includes the European Commission’s Standard Contractual Clauses (both controller-processor and controller-controller) to extend GDPR privacy principles, rights, and obligations everywhere personal data is processed. The DPA is extensive so to aid our customers, we have provided both a summary of what they mean and how PROXIMA B SASU upholds our responsibilities in our [Privacy Regulation Reference](regulations/index.md). If you prefer to have an executed copy of the Data Processing Addendum, you may [sign a copy online](TODO). Regardless of whether you execute or not, we protect and secure your data to the high standards set out in the addendum.
-
-There are also a few ad-hoc cases where EU personal data may be transferred to the US related to PROXIMA B SASU operations. For instance, if someone in the US comments on our company blog or a customer participates in one of our infrequent surveys or someone applies to one of our open positions or buys swag on our company shop. Such transfers are only occasional and transferred under the [Article 49(1)(b) derogation](https://gdpr-info.eu/art-49-gdpr/) under GDPR.
-
-## EU-US and Swiss-US Privacy Shield policy
-
-The EU-US [Privacy Shield](https://www.privacyshield.gov/) is an agreement between certain European jurisdictions and the United States that up until July 16, 2020, allowed for the transfer of personal data from the EU to the US. Participation in the Privacy Shield program is voluntary. The Swiss-US Privacy Shield is a similar program for data transferred to the US from Switzerland that was in effect until September 8, 2020.
-
-### We comply with the frameworks for EU, UK, and Swiss data that are transferred into the United States
-
-Reacher complies with the EU-U.S. Privacy Shield Framework and the Swiss-U.S. Privacy Shield Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information transferred from the European Union, the United Kingdom, and Switzerland to the United States, respectively. We’ve certified to the Department of Commerce that we adhere to the Privacy Shield Principles. If there is any conflict between the terms in this privacy policy and the Privacy Shield Principles, the Privacy Shield Principles take precedent. To learn more about the Privacy Shield program, and to view our certification, please visit [https://www.privacyshield.gov/](https://www.privacyshield.gov/).
-
-Reacher is subject to the investigatory and enforcement powers of the Federal Trade Commission (FTC) with regard to the Privacy Shield Frameworks.
-
-The Privacy Shield Frameworks uphold specific principles, many of which are already outlined in the section on Your Rights. For clarity, pursuant to the Privacy Shield Frameworks, the following principles apply to all EU, UK, and Swiss data that has been transferred into the United States:
-
-- Individuals have the right to access their personal data and to update, correct, and/or amend information that is incomplete. Individuals also have the right to request erasure of personal information that has been processed in violation of the principles. Individuals wishing to exercise these rights may do so by by signing in and directly updating your account information. If you have questions about exercising these rights or need assistance, please contact us at [amaury@reacher.email](mailto:amaury@reacher.email) or at PROXIMA B SASU, 15 Avenue Sainte Foy, 92200 Neuilly-sur-Seine, FRANCE.
-- We remain liable for the onward transfer of personal data to third parties acting as our agents unless we can prove we were not a party to the events giving rise to the damages.
-- We do not sell personal data nor do we permit it to be used for reasons other than those for which it was originally provided. If this practice should change in the future, we will update this policy accordingly and provide individuals with opt-out or opt-in choice as appropriate.
-- We may be required to release personal data in response to lawful requests from public authorities including to meet national security and law enforcement requirements.
-
-### We commit to resolving all complaints
-
-In compliance with the EU-US Privacy Shield Principles and the Swiss-US Privacy Shield Principles, we commit to resolve complaints about your privacy and our collection or use of your personal information. European Union, United Kingdom, or Swiss individuals with inquiries or complaints regarding this privacy policy should first contact Jeremy Daer at Reacher at amaury@reacher.email, or by mail at PROXIMA B SASU, 15 Avenue Sainte Foy, 92200 Neuilly-sur-Seine, FRANCE.
-
-Reacher (the company) has further committed to refer unresolved privacy complaints under the EU-US Privacy Shield Principles and the Swiss-US Privacy Shield Principles to an independent dispute resolution mechanism, the BBB EU PRIVACY SHIELD, operated by BBB National Programs. If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed, please visit [https://bbbprograms.org/privacy-shield-complaints/](https://bbbprograms.org/privacy-shield-complaints/) for more information and to file a complaint. This service is provided at no cost to you. Please do not submit GDPR complaints to BBB EU Privacy Shield.
-
-If your EU-US Privacy Shield complaint cannot be resolved through these described channels, under certain conditions, you may invoke binding arbitration for some residual claims not resolved by other redress mechanisms. To learn more, please view the Privacy Shield Annex 1 at [https://www.privacyshield.gov/article?id=ANNEX-I-introduction](https://www.privacyshield.gov/article?id=ANNEX-I-introduction).
+Our products and other web properties are operated in French, whereas the data infrastructure is located in the United States. If you are located in the European Union or elsewhere outside of the United States, **please be aware that any information you provide to us will be transferred to and stored in the United States**. By using our Site, participating in any of our services and/or providing us with your information, you consent to this transfer.
 
 ## Changes & questions
 

@@ -8,7 +8,6 @@ The rough print and the fine print. We try to make all our policies as clear, fa
 - [Cancellation policy](cancellation/index.md)
 - [Refund policy](refund/index.md)
 - [Use Restrictions policy](abuse/index.md)
-- [Until the End of the Internet](until-the-end-of-the-internet/index.md)
 
 ## Public Contributions Welcome
 
