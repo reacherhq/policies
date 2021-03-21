@@ -26,8 +26,8 @@ If you have not purchased a Reacher Commercial License from Reacher, these terms
 
 1.5 The **“Software”** means any of the following software libraries:
 
-- "reacherhq/check-if-email-exists" version {{ciee_version}}, hosted at https://github.com/reacherhq/check-if-email-exists.
-- "reacherhq/backend" version {{backend_version}}, hosted at https://github.com/reacherhq/backend.
+- `reacherhq/check-if-email-exists` version {{ciee_version}}, hosted at https://github.com/reacherhq/check-if-email-exists.
+- `reacherhq/backend` version {{backend_version}}, hosted at https://github.com/reacherhq/backend.
 
 ## 2. Commercial license grant
 
