@@ -10,7 +10,7 @@ This Software License Agreement (the “Agreement”) is between:
 - PROXIMA B SASU (“Company”, “Reacher”), located at 15 Avenue Sainte Foy, 92200 Neuilly-sur-Seine, FRANCE,
 - and You (including your agents and affiliates), a commercial licensee of Reacher's software.
 
-This license has been purchased by {{TODO stripe_buyer}} on {{TODO stripe_buy_date}}.
+This license has been purchased by {{stripe_buyer}} on {{stripe_buy_date}}.
 
 If you have not purchased a Reacher Commercial License from Reacher, these terms do not apply to you, and your use of the Reacher software is instead governed by the [GNU Affero General Public License, version 3](https://www.gnu.org/licenses/agpl-3.0.en.html).
 
@@ -26,12 +26,12 @@ If you have not purchased a Reacher Commercial License from Reacher, these terms
 
 1.5 The **“Software”** means any of the following software libraries:
 
-- "reacherhq/check-if-email-exists" version {{TODO ciee_version}}, hosted at https://github.com/reacherhq/check-if-email-exists.
-- "reacherhq/backend" version {{TODO backend_version}}, hosted at https://github.com/reacherhq/backend.
+- "reacherhq/check-if-email-exists" version {{ciee_version}}, hosted at https://github.com/reacherhq/check-if-email-exists.
+- "reacherhq/backend" version {{backend_version}}, hosted at https://github.com/reacherhq/backend.
 
 ## 2. Commercial license grant
 
-2.1 Subject to the terms of this Agreement, Reacher grants to You a revocable, non-exclusive, non-transferable license: (i) for {{TODO license_number_devs}} to use the Software to create Modifications and Applications; (ii) for You to distribute the Software and/or Modifications to an unlimited number of End Users solely as integrated into the Applications; and (iii) for End Users to use the Software as incorporated into Your Applications in accordance with the terms of this Agreement.
+2.1 Subject to the terms of this Agreement, Reacher grants to You a revocable, non-exclusive, non-transferable license: (i) for {{license_number_devs}} to use the Software to create Modifications and Applications; (ii) for You to distribute the Software and/or Modifications to an unlimited number of End Users solely as integrated into the Applications; and (iii) for End Users to use the Software as incorporated into Your Applications in accordance with the terms of this Agreement.
 
 2.2. You are entitled to receive all updates to the minor version of the Software licensed by you, as well as any later version of the Software that Reacher, in writing, explicitly authorizes you to use. (For illustration purposes only, if you purchased a license for version 0.8.19, this licenses authorizes you to use version 0.8.20, but not 0.9.0.) Reacher makes no representation that any update will be compatible with your Application.
 
@@ -53,7 +53,7 @@ If you have not purchased a Reacher Commercial License from Reacher, these terms
 
 ## 5. Termination
 
-5.1 This Agreement and the license granted hereunder shall be valid until {{TODO license_end_date}} and shall terminate upon this date.
+5.1 This Agreement and the license granted hereunder shall be valid until {{license_end_date}} and shall terminate upon this date.
 
 5.2 Reacher shall have the right to terminate this Agreement and the license granted hereunder immediately if You breach any of the material terms of this Agreement, and You fail to cure such material breach within thirty (30) days of receipt of notice from Reacher. Upon termination of this Agreement, all licenses granted to You in this Agreement shall terminate automatically and You shall immediately cease use and distribution of the Software.
 
